@@ -1,0 +1,29 @@
+.homeBgCon {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/ipl-dashboard-lg-bg.png');
+  background-size: cover;
+}
+
+.logoCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.mainHeading {
+  color: #ffffff;
+  font-size: 50px;
+  font-weight: 700;
+  padding-top: 50px;
+}
+.logoImg {
+  height: 80px;
+  width: 30;
+  margin-right: 10px;
+}
+
+.ulListCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
